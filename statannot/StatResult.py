@@ -18,5 +18,3 @@ class StatResult:
 
     def __str__(self):
         return self.formatted_output
-
-
